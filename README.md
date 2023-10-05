@@ -19,11 +19,6 @@ Before setting up and running the project, ensure you have the following prerequ
 - Access to a CSV file with cell culture data in the following format:
 csv
 
-Timestamp, Cell Density, O2 Levels, CO2 Levels
-1.0, 0.1, 38.0, 20.0
-2.0, 0.2, 40.0, 18.0
-3.0, 0.3, 42.0, 17.0
-
 # Project Tasks
 The project will perform the following tasks:
 
